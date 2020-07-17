@@ -11,9 +11,9 @@
 
 ## Links
 
-[Website](https://dennis.geldmacher.dev) - 
-[Twitter](https://twitter.com/tooArr) - 
-[LinkedIn](https://www.linkedin.com/in/geldmacherdennis/)
+- [Website](https://dennis.geldmacher.dev)
+- [Twitter](https://twitter.com/tooArr)
+- [LinkedIn](https://www.linkedin.com/in/geldmacherdennis/)
 
 ## In detail
 
@@ -23,5 +23,4 @@ Due to my many years of experience as well as my continuous further education, I
 
 ## Favourite Quote
 
-> “Programming is the only job I can think of where I get to be both an engineer and an artist. There's an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking. On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation.” 
-> – Andy Hertzfeld
+> “Programming is the only job I can think of where I get to be both an engineer and an artist. There's an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking. On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation.” \\ – Andy Hertzfeld
