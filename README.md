@@ -9,7 +9,7 @@
 - **Blockchain Fanboy**
 - **Early Adopter asap**
 
-> “Programming is the only job I can think of where I get to be both an engineer and an artist. There's an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking. On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation.” – **__Andy Hertzfeld__**
+> “Programming is the only job I can think of where I get to be both an engineer and an artist. There's an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking. On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation.” – ***Andy Hertzfeld***
 
 ## Links
 
