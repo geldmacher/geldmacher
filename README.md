@@ -7,7 +7,6 @@
 👴 **Senior Web-Developer (Full-Stack)** \
 🦁 **TYPO3 Expert (TCCD,-I,-C)** \
 🚀 **Web-Performance Specialist** \
-🐣 **Ionic (Angular) Padawan** \
 ⛓️ **Blockchain Fanboy** \
 👀 **Early Adopter asap**
 
