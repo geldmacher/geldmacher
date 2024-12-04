@@ -7,8 +7,7 @@
 👴 **Senior Web-Developer (Full-Stack)** \
 🦁 **TYPO3 Expert (TCCD,-I,-C)** \
 🚀 **Web-Performance Specialist** \
-⛓️ **Blockchain Fanboy** \
-👀 **Early Adopter asap**
+⛓️ **Web3 / Onchain Enthusiast**
 
 ## Links
 
@@ -18,4 +17,8 @@
 
 ## In detail
 
-Certified IT Business Manager (IHK) and certified TYPO3-Integrator, -Developer and -Consultant with extensive project experience including larger projects. Extensive knowledge in the conception, design, implementation, support and project management of user-friendly and intuitive websites as well as web applications with modern frontend and backend technologies (PHP, MySQL, Solr, HTML, CSS, JavaScript). Extensive experience in the performance optimization of websites and web applications as well as the implementation of mobile solutions and search engine optimization.
+I am a certified IT business manager (IHK) and certified TYPO3 integrator, developer and consultant (TCCI, TCCD, TCCC) with many years of project experience and extensive knowledge in the conception, design, implementation, support and project management of user-friendly and intuitive websites based on TYPO3 (PHP, MySQL, Solr, HTML, CSS, JavaScript, TypoScript).
+
+I also have extensive expertise in the areas of performance optimization (Core Web Vitals), UX/UI design, search engine optimization, integration of analysis, marketing and consent tools (GTM, GA, Matomo, Ads, Hubspot, Usercentrics, Klaro) and the provision of CI/CD processes (GitLab, GitHub, Deployer).
+
+In addition, due to my many years of experience and my continuous training, I am constantly involved in sales processes and project management tasks. I create the technical basis for the implementation of projects and support employees in their implementation. My responsibilities also include optimizing development processes and final quality control.
