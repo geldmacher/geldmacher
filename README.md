@@ -12,7 +12,7 @@
 ## Links
 
 - [Website](https://dennis.geldmacher.dev)
-- [Twitter](https://twitter.com/tooArr)
+- [X](https://x.com/tooArr)
 - [LinkedIn](https://www.linkedin.com/in/geldmacherdennis/)
 
 ## In detail
