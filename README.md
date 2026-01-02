@@ -4,9 +4,10 @@
 
 ## In a nutshell
 
-👴 **Senior Web-Developer (Full-Stack)** \
-🦁 **TYPO3 Expert (TCCD,-I,-C)** \
-🚀 **Web-Performance Specialist** \
+👴 **Senior Full-Stack Web Developer** \
+🦁 **TYPO3 Expert (TCCI / TCCD / TCCC)** \
+🚀 **Web Performance & Core Web Vitals Specialist** \
+🤖 **AI Integration (SWE + Web/E-Commerce, Agents/RAG)** \
 ⛓️ **Web3 / Onchain Enthusiast**
 
 ## Links
@@ -17,8 +18,12 @@
 
 ## In detail
 
-I am a certified IT business manager (IHK) and certified TYPO3 integrator, developer and consultant (TCCI, TCCD, TCCC) with many years of project experience and extensive knowledge in the conception, design, implementation, support and project management of user-friendly and intuitive websites based on TYPO3 (PHP, MySQL, Solr, HTML, CSS, JavaScript, TypoScript).
+I am a certified IT business manager (IHK) and a certified TYPO3 integrator, developer, and consultant (TCCI, TCCD, TCCC) with many years of project experience and extensive expertise in the conception, design, implementation, support, and project management of user-friendly and intuitive TYPO3-based websites (PHP, MySQL, Solr, HTML, CSS, JavaScript, TypoScript).
 
-I also have extensive expertise in the areas of performance optimization (Core Web Vitals), UX/UI design, search engine optimization, integration of analysis, marketing and consent tools (GTM, GA, Matomo, Ads, Hubspot, Usercentrics, Klaro) and the provision of CI/CD processes (GitLab, GitHub, Deployer).
+I am also actively working on the practical integration of AI into software engineering processes and web/e-commerce projects. This includes evaluating different AI tools, IDEs, and workflows, supporting colleagues in adopting AI in day-to-day development, and continuously improving internal processes for professional AI usage (e.g., AI-assisted code reviews where appropriate).
 
-In addition, due to my many years of experience and my continuous training, I am constantly involved in sales processes and project management tasks. I create the technical basis for the implementation of projects and support employees in their implementation. My responsibilities also include optimizing development processes and final quality control.
+In this context, I design and develop an enterprise-ready, multi-purpose AI agent stack (multi-agent, RAG, MCP), built on open-source technologies and engineered for fast adaptation to new domains and rapid POC implementation. I also shape and implement a Generative Engine Optimization (GEO) service that bridges AI directly into the website and e-commerce domain.
+
+I also have extensive expertise in performance optimization (Core Web Vitals), UX/UI design, search engine optimization, integrating analytics/marketing/consent tools (GTM, GA, Matomo, Ads, HubSpot, Usercentrics, Klaro), and providing CI/CD processes (GitLab, GitHub, Deployer).
+
+In addition, based on my many years of experience and continuous training, I am regularly involved in sales processes and project management tasks. I create the technical foundation for project delivery and support teams during implementation. My responsibilities also include optimizing development processes and ensuring final quality control.
