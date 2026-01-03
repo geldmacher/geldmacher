@@ -18,12 +18,10 @@
 
 ## In detail
 
-I am a certified IT business manager (IHK) and a certified TYPO3 integrator, developer, and consultant (TCCI, TCCD, TCCC) with many years of project experience and extensive expertise in the conception, design, implementation, support, and project management of user-friendly and intuitive TYPO3-based websites (PHP, MySQL, Solr, HTML, CSS, JavaScript, TypoScript).
+I am a certified IT Business Manager (IHK) and a certified TYPO3 Integrator, Developer, and Consultant (TCCI, TCCD, TCCC) with many years of experience delivering TYPO3-based web platforms—from conception and design to implementation, operations, and project management (PHP, MySQL, Solr, HTML, CSS, JavaScript, TypoScript).
 
-I am also actively working on the practical integration of AI into software engineering processes and web/e-commerce projects. This includes evaluating different AI tools, IDEs, and workflows, supporting colleagues in adopting AI in day-to-day development, and continuously improving internal processes for professional AI usage (e.g., AI-assisted code reviews where appropriate).
+I drive the practical adoption of AI in software engineering and web delivery by evaluating tools, IDEs, and workflows, enabling teams in day-to-day usage, and continuously improving internal standards and processes for professional, compliant AI application. In parallel, I design and build an enterprise-ready, GDPR-compliant AI agent stack (multi-agent, RAG, MCP) based on open-source technologies, hosted in EU-based data centers, and optimized for rapid POCs and fast domain onboarding.
 
-In this context, I design and develop an enterprise-ready, multi-purpose AI agent stack (multi-agent, RAG, MCP), built on open-source technologies and engineered for fast adaptation to new domains and rapid POC implementation. I also shape and implement a Generative Engine Optimization (GEO) service that bridges AI directly into the website and e-commerce domain.
+I also conceive and implement Generative Engine Optimization (GEO) measures for web systems, integrating AI capabilities directly into website and e-commerce architectures.
 
-I also have extensive expertise in performance optimization (Core Web Vitals), UX/UI design, search engine optimization, integrating analytics/marketing/consent tools (GTM, GA, Matomo, Ads, HubSpot, Usercentrics, Klaro), and providing CI/CD processes (GitLab, GitHub, Deployer).
-
-In addition, based on my many years of experience and continuous training, I am regularly involved in sales processes and project management tasks. I create the technical foundation for project delivery and support teams during implementation. My responsibilities also include optimizing development processes and ensuring final quality control.
+My additional strengths include performance engineering (Core Web Vitals), UX/UI design, SEO, analytics/marketing/consent integrations (GTM, GA, Matomo, Ads, HubSpot, Usercentrics, Klaro), and CI/CD automation (GitLab, GitHub, Deployer, Terraform). I regularly support sales and delivery by establishing the technical foundation, guiding implementation teams, improving development processes, and owning final quality assurance.
