@@ -7,8 +7,7 @@
 👴 **Senior Full-Stack Web Developer** \
 🦁 **TYPO3 Expert (TCCI / TCCD / TCCC)** \
 🚀 **Web Performance & Core Web Vitals Specialist** \
-🤖 **AI Integration (SWE + Web/E-Commerce, Agents/RAG)** \
-⛓️ **Web3 / Onchain Enthusiast**
+🤖 **AI Integration (SWE + Web/E-Commerce, Agents/RAG)**
 
 ## Links
 
