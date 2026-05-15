@@ -1,26 +1,59 @@
 # Dennis Geldmacher
 
-> “Programming is the only job I can think of where I get to be both an engineer and an artist. There's an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking. On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation.” – ***Andy Hertzfeld***
+**AI Solution Architect & Engineer · Senior Full-Stack Developer · AI Integration, RAG, Agents & Web Platforms**
 
-## In a nutshell
+I build production-ready AI-enabled software at the intersection of full-stack development, web platforms, business processes and practical AI integration.
 
-👴 **Senior Full-Stack Web Developer** \
-🦁 **TYPO3 Expert (TCCI / TCCD / TCCC)** \
-🚀 **Web Performance & Core Web Vitals Specialist** \
-🤖 **AI Integration (SWE + Web/E-Commerce, Agents/RAG)**
+My focus is on turning AI capabilities into systems that work beyond demos: LLM-based workflows, RAG architectures, agent-based concepts, AI-assisted software delivery, workflow automation and GDPR-conscious AI solutions for websites, CMS platforms, e-commerce systems and internal business processes.
+
+## What I work on
+
+- AI integration for real-world web, CMS and e-commerce systems
+- RAG architectures and LLM-based workflows
+- Agent-based systems, MCP concepts and workflow automation
+- AI-assisted software engineering and delivery processes
+- GDPR-conscious AI stacks based on open-source and EU-hosted infrastructure
+- TYPO3-based enterprise web platforms and custom web applications
+- Performance engineering, Core Web Vitals, SEO and analytics integrations
+- CI/CD, deployment automation and technical quality assurance
+
+## Technical foundation
+
+I have many years of experience delivering TYPO3-based web platforms and custom web applications end to end — from conception, architecture and implementation to operations, project management, quality assurance and continuous improvement.
+
+My background includes:
+
+- PHP, TYPO3, TypoScript, MySQL, PostgreSQL
+- JavaScript, TypeScript, HTML, CSS
+- Solr and search systems
+- APIs, integrations and automation
+- GitLab, GitHub, CI/CD, Deployer, Terraform
+- Core Web Vitals, performance optimization and technical SEO
+- Analytics, marketing and consent integrations
+- LLM APIs, RAG, AI agents and AI-enabled development workflows
+
+## Current focus
+
+I am especially interested in roles and projects where AI has to be integrated into existing systems and workflows:
+
+- technical discovery and solution design
+- rapid proof-of-concepts
+- domain onboarding
+- system and API integration
+- workflow automation
+- human-in-the-loop processes
+- compliance-aware implementation
+- measurable business impact
+
+## Certifications
+
+- Certified IT Business Manager (IHK)
+- TYPO3 CMS Certified Integrator
+- TYPO3 CMS Certified Developer
+- TYPO3 CMS Certified Consultant
 
 ## Links
 
-- [Website](https://dennis.geldmacher.dev)
-- [X](https://x.com/tooArr)
-- [LinkedIn](https://www.linkedin.com/in/geldmacherdennis/)
-
-## In detail
-
-I am a certified IT Business Manager (IHK) and a certified TYPO3 Integrator, Developer, and Consultant (TCCI, TCCD, TCCC) with many years of experience delivering TYPO3-based web platforms—from conception and design to implementation, operations, and project management (PHP, MySQL, Solr, HTML, CSS, JavaScript, TypoScript).
-
-I drive the practical adoption of AI in software engineering and web delivery by evaluating tools, IDEs, and workflows, enabling teams in day-to-day usage, and continuously improving internal standards and processes for professional, compliant AI application. In parallel, I design and build an enterprise-ready, GDPR-compliant AI agent stack (multi-agent, RAG, MCP) based on open-source technologies, hosted in EU-based data centers, and optimized for rapid POCs and fast domain onboarding.
-
-I also conceive and implement Generative Engine Optimization (GEO) measures for web systems, integrating AI capabilities directly into website and e-commerce architectures.
-
-My additional strengths include performance engineering (Core Web Vitals), UX/UI design, SEO, analytics/marketing/consent integrations (GTM, GA, Matomo, Ads, HubSpot, Usercentrics, Klaro), and CI/CD automation (GitLab, GitHub, Deployer, Terraform). I regularly support sales and delivery by establishing the technical foundation, guiding implementation teams, improving development processes, and owning final quality assurance.
+- Website: [dennis.geldmacher.dev](https://dennis.geldmacher.dev)
+- LinkedIn: [linkedin.com/in/geldmacherdennis](https://www.linkedin.com/in/geldmacherdennis/)
+- X: [x.com/tooArr](https://x.com/tooArr)
